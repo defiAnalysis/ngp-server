@@ -22,7 +22,8 @@
     "koa-static": "^5.0.0",
     "koa-views": "^6.2.0",
     "koa2-cors": "^2.0.6",
-    "mysql2": "^3.0.1"
+    "mysql2": "^3.0.1",
+    "node-fetch": "^2.6.9"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
