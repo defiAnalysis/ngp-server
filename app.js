@@ -25,6 +25,8 @@ app.use(
     enableTypes: ["json", "form", "text"],
   })
 );
+// app.use(bodyParser());
+
 app.use(json());
 
 const accessLogStream = fs.createWriteStream(
